@@ -8,7 +8,7 @@ The software that you should install/register:
           - Password: emdlabUMPSA2025%
 
 The files provided should be placed in your PC (anywhere of your preference). The files and folders are:
-1. The proposal "Proposal PMSM Thermal Model - Masters" - Read to understand the context of the project
+1. The proposal "Proposal PMSM Thermal Model - Masters" - Read to understand the context of the project. Link: https://github.com/azrihizami/Bach.-Thesis---Angelina/blob/main/Proposal%20PMSM%20Thermal%20Model%20-%20Masters%20.pdf 
 2. "PMSM_1.FEH" file. It is the geometry of your motor in FEMM for thermal analysis
 
 Steps: (Watch video recordings: -)
